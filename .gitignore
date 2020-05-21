@@ -1,0 +1,5 @@
+.vagrant/
+haproxy.cfg
+joinmaster.sh
+joinworker.sh
+*.log
